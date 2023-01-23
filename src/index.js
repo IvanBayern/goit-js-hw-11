@@ -162,7 +162,7 @@ class ImageSearch {
 }
 
 const URI =
-  'https://pixabay.com/api/?key=31237471-5a493734838c09426069ada78&image_type=photo&orientation=horizontal&safesearch=true&per_page=40&page=';
+  'https://pixabay.com/api/?key=33047738-e1c3cb2852a72249414073706&image_type=photo&orientation=horizontal&safesearch=true&per_page=40&page=';
 
 const refs = {
   form: document.querySelector('#search-form'),
